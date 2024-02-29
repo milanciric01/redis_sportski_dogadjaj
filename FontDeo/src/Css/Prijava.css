@@ -1,0 +1,80 @@
+.login-form {
+    background-color: rgba(0, 0, 0, 0.4); /* transparentna crna pozadina */
+    color: white; /* bela boja slova */
+    padding: 20px;
+  
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+  }
+  
+  /* stil za input polja i dugme */
+  .login-form input,
+  .login-form button {
+    background-color: white; /* bela pozadina */
+    color: black; /* crna boja slova */
+    padding: 5px;
+    border: none;
+    margin-right: 10px;
+  }
+  
+  /* stil za dugme za prijavu */
+  .login-form button {
+    background-color: white; /* plava pozadina */
+    color: rgb(37, 33, 33); /* bela boja slova */
+    cursor: pointer;
+  }
+  
+  .login-form button:hover {
+    background-color: rgb(37, 33, 33);
+    color: white;
+    
+  }
+  
+  #register:hover {
+    text-decoration: underline;
+    
+    font-size : 120%;
+  }
+  
+  
+  .spoljniMoj{
+    position: relative;
+   display: flex;
+   flex-direction: column;
+   
+  }
+  
+  .showLabela
+  {
+     position:absolute;
+      bottom:10px;
+      left:87%;
+      width:20px;
+      height:20px;
+      color:rgb(71, 67, 67);
+      
+  
+  }
+  .inputZaSifru{
+    height:20px;
+    margin:0;
+    padding-left:30px;
+  }
+  @media screen and (max-width:600px)
+  {
+    .login-form {
+      position: relative;
+      left:50%;
+      background-color: rgba(0, 0, 0, 0.4); /* transparentna crna pozadina */
+      color: white; /* bela boja slova */
+      padding: 100px;
+    
+      border: 1px solid #ccc;
+      border-radius: 10px;
+    
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+    }
+  
+  }

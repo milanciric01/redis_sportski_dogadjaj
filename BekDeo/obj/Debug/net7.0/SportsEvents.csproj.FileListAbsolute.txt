@@ -1,0 +1,327 @@
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/appsettings.Development.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/appsettings.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/SportsEvents
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/SportsEvents.deps.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/SportsEvents.runtimeconfig.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/SportsEvents.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/SportsEvents.pdb
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/StackExchange.Redis.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/SportsEvents.csproj.AssemblyReference.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/SportsEvents.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/SportsEvents.AssemblyInfoInputs.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/SportsEvents.AssemblyInfo.cs
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/SportsEvents.csproj.CoreCompileInputs.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/SportsEvents.MvcApplicationPartsAssemblyInfo.cs
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/SportsEvents.MvcApplicationPartsAssemblyInfo.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.SportsEvents.Microsoft.AspNetCore.StaticWebAssets.props
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.build.SportsEvents.props
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SportsEvents.props
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SportsEvents.props
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/staticwebassets.pack.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/staticwebassets.build.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/staticwebassets.development.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/scopedcss/bundle/SportsEvents.styles.css
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/SportsEvents.csproj.CopyComplete
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/SportsEvents.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/refint/SportsEvents.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/SportsEvents.pdb
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/SportsEvents.genruntimeconfig.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/obj/Debug/net7.0/ref/SportsEvents.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/SportsEvents/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/appsettings.Development.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/appsettings.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/SportsEvents
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/SportsEvents.deps.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/SportsEvents.runtimeconfig.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/SportsEvents.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/SportsEvents.pdb
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/StackExchange.Redis.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/SportsEvents.csproj.AssemblyReference.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/SportsEvents.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/SportsEvents.AssemblyInfoInputs.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/SportsEvents.AssemblyInfo.cs
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/SportsEvents.csproj.CoreCompileInputs.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/SportsEvents.MvcApplicationPartsAssemblyInfo.cs
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/SportsEvents.MvcApplicationPartsAssemblyInfo.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.SportsEvents.Microsoft.AspNetCore.StaticWebAssets.props
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.build.SportsEvents.props
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SportsEvents.props
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SportsEvents.props
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/staticwebassets.pack.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/staticwebassets.build.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/staticwebassets.development.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/scopedcss/bundle/SportsEvents.styles.css
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/SportsEvents.csproj.CopyComplete
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/SportsEvents.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/refint/SportsEvents.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/SportsEvents.pdb
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/SportsEvents.genruntimeconfig.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/Milance/SportsEvents 1/SportsEvents/obj/Debug/net7.0/ref/SportsEvents.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/appsettings.json
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/SportsEvents.exe
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/SportsEvents.deps.json
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/SportsEvents.runtimeconfig.json
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/SportsEvents.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/SportsEvents.pdb
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/BCrypt.Net-Next.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/SportsEvents.csproj.AssemblyReference.cache
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/SportsEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/SportsEvents.AssemblyInfoInputs.cache
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/SportsEvents.AssemblyInfo.cs
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/SportsEvents.csproj.CoreCompileInputs.cache
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/SportsEvents.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/SportsEvents.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.SportsEvents.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.build.SportsEvents.props
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SportsEvents.props
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SportsEvents.props
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/scopedcss/bundle/SportsEvents.styles.css
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/SportsEvents.csproj.CopyComplete
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/SportsEvents.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/refint/SportsEvents.dll
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/SportsEvents.pdb
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/SportsEvents.genruntimeconfig.cache
+C:/Users/Djole/Desktop/Sedmi semestar/Napredne baze/SportsEvents/obj/Debug/net7.0/ref/SportsEvents.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/appsettings.Development.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/appsettings.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/SportsEvents
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/SportsEvents.deps.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/SportsEvents.runtimeconfig.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/SportsEvents.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/SportsEvents.pdb
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/StackExchange.Redis.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/SportsEvents.csproj.AssemblyReference.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/SportsEvents.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/SportsEvents.AssemblyInfoInputs.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/SportsEvents.AssemblyInfo.cs
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/SportsEvents.csproj.CoreCompileInputs.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/SportsEvents.MvcApplicationPartsAssemblyInfo.cs
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/SportsEvents.MvcApplicationPartsAssemblyInfo.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.SportsEvents.Microsoft.AspNetCore.StaticWebAssets.props
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.build.SportsEvents.props
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SportsEvents.props
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SportsEvents.props
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/staticwebassets.pack.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/staticwebassets.build.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/staticwebassets.development.json
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/scopedcss/bundle/SportsEvents.styles.css
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/SportsEvents.csproj.CopyComplete
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/SportsEvents.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/refint/SportsEvents.dll
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/SportsEvents.pdb
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/SportsEvents.genruntimeconfig.cache
+/home/andrej/Desktop/Faks/NapredneBaze/RedisProjDokumentacija/Redis/5.1./SportsEvents/obj/Debug/net7.0/ref/SportsEvents.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\appsettings.json
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\SportsEvents.exe
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\SportsEvents.deps.json
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\SportsEvents.runtimeconfig.json
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\SportsEvents.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\SportsEvents.pdb
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\SportsEvents.csproj.AssemblyReference.cache
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\SportsEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\SportsEvents.AssemblyInfoInputs.cache
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\SportsEvents.AssemblyInfo.cs
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\SportsEvents.csproj.CoreCompileInputs.cache
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\SportsEvents.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\SportsEvents.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\staticwebassets\msbuild.SportsEvents.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\staticwebassets\msbuild.build.SportsEvents.props
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SportsEvents.props
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SportsEvents.props
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\scopedcss\bundle\SportsEvents.styles.css
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\SportsEvents.csproj.CopyComplete
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\SportsEvents.dll
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\refint\SportsEvents.dll
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\SportsEvents.pdb
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\SportsEvents.genruntimeconfig.cache
+C:\Users\Djole\Desktop\SportsEvents\obj\Debug\net7.0\ref\SportsEvents.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\Djole\Desktop\SportsEvents\bin\Debug\net7.0\Owin.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\appsettings.json
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\SportsEvents.exe
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\SportsEvents.deps.json
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\SportsEvents.runtimeconfig.json
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\SportsEvents.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\SportsEvents.pdb
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Owin.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.csproj.AssemblyReference.cache
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.AssemblyInfoInputs.cache
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.AssemblyInfo.cs
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.csproj.CoreCompileInputs.cache
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.sourcelink.json
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets\msbuild.SportsEvents.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets\msbuild.build.SportsEvents.props
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SportsEvents.props
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SportsEvents.props
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\scopedcss\bundle\SportsEvents.styles.css
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.csproj.CopyComplete
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\refint\SportsEvents.dll
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.pdb
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.genruntimeconfig.cache
+C:\Users\Djole\Desktop\SportsEvents\projekat1\BekDeo\obj\Debug\net7.0\ref\SportsEvents.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\appsettings.json
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\SportsEvents.exe
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\SportsEvents.deps.json
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\SportsEvents.runtimeconfig.json
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\SportsEvents.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\SportsEvents.pdb
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Owin.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.csproj.AssemblyReference.cache
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.AssemblyInfoInputs.cache
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.AssemblyInfo.cs
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.csproj.CoreCompileInputs.cache
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets\msbuild.SportsEvents.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets\msbuild.build.SportsEvents.props
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SportsEvents.props
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SportsEvents.props
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\scopedcss\bundle\SportsEvents.styles.css
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.csproj.CopyComplete
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\refint\SportsEvents.dll
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.pdb
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\SportsEvents.genruntimeconfig.cache
+C:\Users\mil4a\OneDrive\Radna površina\baze\projekat1\BekDeo\obj\Debug\net7.0\ref\SportsEvents.dll
